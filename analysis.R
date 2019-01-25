@@ -83,6 +83,7 @@ mib_ypc_by_yardline <- mib_grouped %>%
    filter(playType == "RUSH") %>%
    group_by(DefendersInBox, yard_bin) %>%
    summarise(ypc = mean(yards),
+             epa = mean(epa),
              count = n())
 
 ### This is amazing. Let's make a heatmap that looks like a football field, sort of. --------------
@@ -102,6 +103,23 @@ ggplot(mib_ypc_by_yardline, aes(x = DefendersInBox, y = yard_bin, fill = ypc)) +
         caption = "Source: ESPN")
 
 ggsave("YPC-heatmap.png")
+
+
+ggplot(mib_ypc_by_yardline, aes(x = DefendersInBox, y = yard_bin, fill = epa)) +
+   geom_tile() +
+   theme_538 +
+   scale_fill_distiller(palette="Greens",
+                        direction = 1) +
+   geom_tile(color = "black") +
+   geom_text(aes(label = round(epa, 3)),
+             color = "black") +
+   guides(fill = F) +
+   coord_equal() +
+   labs(x = "Defenders in the Box", y = "Distance from Goal (10 yard buckets)",
+        subtitle = "2016-2018 reg season",
+        caption = "Source: ESPN")
+
+ggsave("EPA-heatmap.png")
 
 ### Make a model to predict YPC -------------------------------------------------------------------
 
