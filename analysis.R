@@ -130,10 +130,11 @@ predicted <- predict(model_ypc, mib_ypc_by_yardline)
 mib_ypc_by_yardline$predict <- predicted
 
 ggplot(data = mib_ypc_by_yardline, aes(x = predict, y = ypc)) +
-   geom_point(alpha = .5) +
    geom_smooth(method = "lm",
                alpha = .1,
-               color = "black") +
+               color = "grey") +
+   geom_point(alpha = .4,
+              size = 4) +
    theme_538 +
    labs(x = "Predicted Yards per Carry", y = "Actual Yards per Carry",
         title = "Defenders in the Box and Field Position Explain 86% of rushing.",
