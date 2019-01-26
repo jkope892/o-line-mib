@@ -90,7 +90,6 @@ mib_ypc_by_yardline <- mib_grouped %>%
 
 ggplot(mib_ypc_by_yardline, aes(x = DefendersInBox, y = yard_bin, fill = ypc)) +
    geom_tile() +
-   theme_538 +
    scale_fill_distiller(palette="Greens",
                         direction = 1) +
    geom_tile(color = "black") +
@@ -100,10 +99,10 @@ ggplot(mib_ypc_by_yardline, aes(x = DefendersInBox, y = yard_bin, fill = ypc)) +
    coord_equal() +
    labs(x = "Defenders in the Box", y = "Distance from Goal (10 yard buckets)",
         subtitle = "2016-2018 reg season",
-        caption = "Source: ESPN")
+        caption = "Source: ESPN") +
+   theme_538
 
 ggsave("YPC-heatmap.png")
-
 
 ggplot(mib_ypc_by_yardline, aes(x = DefendersInBox, y = yard_bin, fill = epa)) +
    geom_tile() +
@@ -125,3 +124,18 @@ ggsave("EPA-heatmap.png")
 
 model_ypc <- lm(data = mib_ypc_by_yardline, ypc ~ yard_bin + DefendersInBox)
 summary(model_ypc)
+
+predicted <- predict(model_ypc, mib_ypc_by_yardline)
+
+mib_ypc_by_yardline$predict <- predicted
+
+ggplot(data = mib_ypc_by_yardline, aes(x = predict, y = ypc)) +
+   geom_point() +
+   geom_smooth(method = "lm") +
+   theme_538 +
+   labs(x = "Predicted Yards per Carry", y = "Actual Yards per Carry",
+        title = "Defenders in the Box and Field Position Explain 86% of rushing.",
+        subtitle = "2016-2018 reg season",
+        caption = "Source: ESPN")
+
+ggsave("YPC-model-predict.png")
