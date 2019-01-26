@@ -9,3 +9,6 @@ Here is a heat map of yards per carry by 10 yard field position bins and men in 
 Same plot but with Expected Points Added.
 
 ![alt text](https://github.com/friscojosh/o-line-mib/blob/master/EPA-heatmap.png "")
+The fit is legit.
+
+![alt text](https://github.com/friscojosh/o-line-mib/blob/master/YPC-model-predict.png "")
