@@ -120,8 +120,12 @@ mib_grouped <- six_mib_18 %>%
                               yards %in% c(0:4), yards,
                               ifelse(yards %in% c(5:10), 4 + ((yards - 4) * 0.5),
                                      ifelse(yards > 10, 7, 0))
-                           ))) %>%
-   filter(playType == "RUSH")
+                           )),
+          scramble = ifelse(str_detect(playDesc, "scramble") == 1, 1, 0)) %>%
+   filter(playType == "RUSH",
+          scramble == 0)
+
+write_csv(mib_grouped, "data_check.csv")
 
 eleven_personnel <- eleven_per_09 %>%
    bind_rows(
@@ -181,6 +185,8 @@ mib_goal_line <- mib %>%
 mib_grouped$yard_bin <- cut(mib_grouped$goalDistStart,
                             breaks = seq(0, 100, by = 10),
                             right = FALSE)
+
+write_csv(mib_grouped, "data_check.csv")
 
 mib_ypc_by_yardline <- mib_grouped %>%
    filter(playType == "RUSH") %>%
@@ -257,7 +263,7 @@ ggsave("aly-heatmap.png")
 ### Make a model to predict YPC using field position and men in the box----------------------------
 
 model_ypc <-
-   lm(data = mib_ypc_by_yardline, ypc ~ yard_bin + DefendersInBox)
+   lm(data = mib_ypc_by_yardline, ypc ~ 0 + yard_bin + DefendersInBox)
 summary(model_ypc)
 
 model_aly <-
@@ -480,7 +486,8 @@ aly_stability_model <- lm(data = aly_stability, aly.y ~ aly.x)
 summary(aly_stability_model)
 
 comparing_aly <- team_yards_over_expected %>%
-   left_join(aly, by = c("season", "teamName" = "team"))
+   left_join(aly, by = c("season", "teamName" = "team")) %>%
+   select(teamName, season, my_aly, aly_over_expected, aly)
 
 aly_compare <- lm(data = comparing_aly, aly ~ my_aly)
 summary(aly_compare)
