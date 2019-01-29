@@ -5,6 +5,7 @@
 
 library(tidyverse)
 library(lubridate)
+library(Cairo)
 require(theme538)
 
 six_mib_18 <- read_csv("data/mib6-18.csv") %>%
@@ -350,6 +351,9 @@ six_defenders_and_eleven <- league_rush_pct_by_mib %>%
    mutate(Metric = "Defenders in the Box") %>%
    bind_rows(eleven_personnel)
 
+CairoPDF(file = "11-personnel-and-6-mib.pdf",
+         width = 11.7, height = 15.4)
+
 ggplot(six_defenders_and_eleven, aes(x = season, y = count, group = Metric, color = Metric)) +
    geom_line(size = 2  ) +
    geom_point(size = 3) +
@@ -360,7 +364,10 @@ ggplot(six_defenders_and_eleven, aes(x = season, y = count, group = Metric, colo
         subtitle = "2009-2018 reg season (Red = 11 Personnel, Blue = 6 Defenders in the Box)",
         caption = "Source: ESPN")
 
+dev.off()
+
 ggsave("11-personnel-and-6-mib.png")
+
 
 ### Table of 2018 teams ---------------------------------------------------------------------------
 
