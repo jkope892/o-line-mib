@@ -9,76 +9,116 @@ library("Cairo")
 require("theme538")
 
 six_mib_18 <- read_csv("data/mib6-18.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2018)
 seven_mib_18 <- read_csv("data/mib7-18.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2018)
 eight_mib_18 <- read_csv("data/mib8-18.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2018)
 six_mib_17 <- read_csv("data/mib6-17.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2017)
 seven_mib_17 <- read_csv("data/mib7-17.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2017)
 eight_mib_17 <- read_csv("data/mib8-17.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2017)
 six_mib_16 <- read_csv("data/mib6-16.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2016)
 seven_mib_16 <- read_csv("data/mib7-16.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2016)
 eight_mib_16 <- read_csv("data/mib8-16.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2016)
 six_mib_15 <- read_csv("data/mib6-15.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2015)
 seven_mib_15 <- read_csv("data/mib7-15.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2015)
 eight_mib_15 <- read_csv("data/mib8-15.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2015)
 six_mib_14 <- read_csv("data/mib6-14.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2014)
 seven_mib_14 <- read_csv("data/mib7-14.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2014)
 eight_mib_14 <- read_csv("data/mib8-14.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2014)
 six_mib_13 <- read_csv("data/mib6-13.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2013)
 seven_mib_13 <- read_csv("data/mib7-13.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2013)
 eight_mib_13 <- read_csv("data/mib8-13.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2013)
 six_mib_12 <- read_csv("data/mib6-12.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2012)
 seven_mib_12 <- read_csv("data/mib7-12.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2012)
 eight_mib_12 <- read_csv("data/mib8-12.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2012)
 six_mib_11 <- read_csv("data/mib6-11.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2011)
 seven_mib_11 <- read_csv("data/mib7-11.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2011)
 eight_mib_11 <- read_csv("data/mib8-11.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2011)
 six_mib_10 <- read_csv("data/mib6-10.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2010)
 seven_mib_10 <- read_csv("data/mib7-10.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2010)
 eight_mib_10 <- read_csv("data/mib8-10.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2010)
 six_mib_09 <- read_csv("data/mib6-09.csv") %>%
-   mutate(DefendersInBox = 6)
+   mutate(DefendersInBox = 6,
+          season = 2009)
 seven_mib_09 <- read_csv("data/mib7-09.csv") %>%
-   mutate(DefendersInBox = 7)
+   mutate(DefendersInBox = 7,
+          season = 2009)
 eight_mib_09 <- read_csv("data/mib8-09.csv") %>%
-   mutate(DefendersInBox = 8)
+   mutate(DefendersInBox = 8,
+          season = 2009)
 
-eleven_per_09 <- read_csv("data/2009-11per.csv")
-eleven_per_10 <- read_csv("data/2010-11per.csv")
-eleven_per_11 <- read_csv("data/2011-11per.csv")
-eleven_per_12 <- read_csv("data/2012-11per.csv")
-eleven_per_13 <- read_csv("data/2013-11per.csv")
-eleven_per_14 <- read_csv("data/2014-11per.csv")
-eleven_per_15 <- read_csv("data/2015-11per.csv")
-eleven_per_16 <- read_csv("data/2016-11per.csv")
-eleven_per_17 <- read_csv("data/2017-11per.csv")
-eleven_per_18 <- read_csv("data/2018-11per.csv")
+eleven_per_09 <- read_csv("data/2009-11per.csv") %>%
+   mutate(season = 2009)
+eleven_per_10 <- read_csv("data/2010-11per.csv") %>%
+   mutate(season = 2010)
+eleven_per_11 <- read_csv("data/2011-11per.csv") %>%
+   mutate(season = 2011)
+eleven_per_12 <- read_csv("data/2012-11per.csv") %>%
+   mutate(season = 2012)
+eleven_per_13 <- read_csv("data/2013-11per.csv") %>%
+   mutate(season = 2013)
+eleven_per_14 <- read_csv("data/2014-11per.csv") %>%
+   mutate(season = 2014)
+eleven_per_15 <- read_csv("data/2015-11per.csv") %>%
+   mutate(season = 2015)
+eleven_per_16 <- read_csv("data/2016-11per.csv") %>%
+   mutate(season = 2016)
+eleven_per_17 <- read_csv("data/2017-11per.csv") %>%
+   mutate(season = 2017)
+eleven_per_18 <- read_csv("data/2018-11per.csv") %>%
+   mutate(season = 2018)
 
 ### roll it all up --------------------------------------------------------------------------------
 
@@ -114,8 +154,7 @@ mib_grouped <- six_mib_18 %>%
       seven_mib_09,
       eight_mib_09
    ) %>%
-   mutate(season = year(date),
-          aly_mib = ifelse(yards < 0, yards * 1.2,
+   mutate(aly_mib = ifelse(yards < 0, yards * 1.2,
                            ifelse(
                               yards %in% c(0:4), yards,
                               ifelse(yards %in% c(5:10), 4 + ((yards - 4) * 0.5),
@@ -140,7 +179,6 @@ eleven_personnel <- eleven_per_09 %>%
       eleven_per_18
    ) %>%
    mutate(
-      season = year(date),
       personnel = 11,
       scramble = ifelse(str_detect(playDesc, "scramble") == 1, 1, 0)
    ) %>%
@@ -149,6 +187,29 @@ eleven_personnel <- eleven_per_09 %>%
    group_by(season) %>%
    summarize(count = n()) %>%
    mutate(Metric = "11 Personnel")
+
+test <- read_csv("data/test.csv") %>%
+   mutate(
+      season = year(date),
+      personnel = 11,
+      scramble = ifelse(str_detect(playDesc, "scramble") == 1, 1, 0)
+   ) %>%
+   filter(playType == "RUSH",
+          scramble == 0) %>%
+   summarize(count = n()) %>%
+   mutate(Metric = "11 Personnel")
+
+test2 <- eleven_per_16 %>%
+   mutate(
+      season = year(date),
+      personnel = 11,
+      scramble = ifelse(str_detect(playDesc, "scramble") == 1, 1, 0)
+   ) %>%
+   filter(playType == "RUSH",
+          scramble == 0) %>%
+   summarize(count = n()) %>%
+   mutate(Metric = "11 Personnel")
+
 
 check <- mib_grouped %>%
    filter(playType == "RUSH",
@@ -494,3 +555,4 @@ summary(aly_compare)
 
 write_csv(teams, "teams.csv")
 write_csv(comparing_aly, "teams_aly.csv")
+

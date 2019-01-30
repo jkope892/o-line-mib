@@ -1,321 +1,321 @@
 teamName,season,my_aly,aly_over_expected,aly
-Arizona Cardinals,2009,2.77,0.12,4.16
-Arizona Cardinals,2010,2.57,-0.13,3.84
-Arizona Cardinals,2011,2.83,0.09,4.07
-Arizona Cardinals,2012,2.1,-0.58,2.93
+Arizona Cardinals,2009,2.75,0.09,4.16
+Arizona Cardinals,2010,2.59,-0.09,3.84
+Arizona Cardinals,2011,2.81,0.1,4.07
+Arizona Cardinals,2012,2.06,-0.64,2.93
 Arizona Cardinals,2013,2.61,-0.17,3.84
 Arizona Cardinals,2014,2.35,-0.45,3.68
-Arizona Cardinals,2015,2.82,0.04,4.18
+Arizona Cardinals,2015,2.79,0.02,4.18
 Arizona Cardinals,2016,2.78,0.02,4.54
-Arizona Cardinals,2017,2.57,-0.17,4.02
+Arizona Cardinals,2017,2.58,-0.16,4.02
 Arizona Cardinals,2018,2.66,-0.16,4
-Atlanta Falcons,2009,2.77,0.18,4.23
-Atlanta Falcons,2010,2.73,0.12,4.19
-Atlanta Falcons,2011,2.44,-0.21,3.84
-Atlanta Falcons,2012,2.52,-0.13,3.87
+Atlanta Falcons,2009,2.82,0.24,4.23
+Atlanta Falcons,2010,2.65,0.05,4.19
+Atlanta Falcons,2011,2.51,-0.11,3.84
+Atlanta Falcons,2012,2.44,-0.24,3.87
 Atlanta Falcons,2013,2.6,-0.2,3.74
 Atlanta Falcons,2014,2.67,-0.17,3.96
-Atlanta Falcons,2015,2.56,-0.17,3.82
+Atlanta Falcons,2015,2.56,-0.16,3.82
 Atlanta Falcons,2016,2.73,0.07,4.4
-Atlanta Falcons,2017,2.71,-0.05,4.35
+Atlanta Falcons,2017,2.72,-0.04,4.35
 Atlanta Falcons,2018,2.5,-0.28,4.08
-Baltimore Ravens,2009,2.91,0.28,4.44
-Baltimore Ravens,2010,2.9,0.22,4.19
-Baltimore Ravens,2011,2.85,0.22,4.25
-Baltimore Ravens,2012,2.94,0.21,4.33
+Baltimore Ravens,2009,2.94,0.31,4.44
+Baltimore Ravens,2010,2.86,0.18,4.19
+Baltimore Ravens,2011,2.86,0.23,4.25
+Baltimore Ravens,2012,2.94,0.2,4.33
 Baltimore Ravens,2013,2.17,-0.62,3.01
 Baltimore Ravens,2014,2.75,0.13,4.25
-Baltimore Ravens,2015,2.62,-0.18,3.87
-Baltimore Ravens,2016,2.65,-0.22,4.07
-Baltimore Ravens,2017,2.81,0.1,4.36
+Baltimore Ravens,2015,2.6,-0.22,3.87
+Baltimore Ravens,2016,2.71,-0.14,4.07
+Baltimore Ravens,2017,2.79,0.09,4.36
 Baltimore Ravens,2018,3.12,0.43,4.61
-Buffalo Bills,2009,2.91,0.14,4.22
-Buffalo Bills,2010,2.9,0.08,3.85
-Buffalo Bills,2011,2.85,-0.01,4.19
-Buffalo Bills,2012,3.15,0.23,4.25
+Buffalo Bills,2009,2.99,0.22,4.22
+Buffalo Bills,2010,2.76,-0.07,3.85
+Buffalo Bills,2011,2.93,0.07,4.19
+Buffalo Bills,2012,3.13,0.22,4.25
 Buffalo Bills,2013,2.79,0,3.85
 Buffalo Bills,2014,2.65,-0.2,3.62
-Buffalo Bills,2015,2.9,0.08,3.59
-Buffalo Bills,2016,2.84,0.16,4.16
-Buffalo Bills,2017,2.31,-0.41,3.67
+Buffalo Bills,2015,2.82,0.01,3.59
+Buffalo Bills,2016,2.82,0.14,4.16
+Buffalo Bills,2017,2.38,-0.35,3.67
 Buffalo Bills,2018,2.57,-0.23,3.89
-Carolina Panthers,2009,2.82,0.27,4.02
-Carolina Panthers,2010,2.51,-0.12,3.74
-Carolina Panthers,2011,3.04,0.35,4.32
-Carolina Panthers,2012,2.7,-0.06,3.49
+Carolina Panthers,2009,2.79,0.24,4.02
+Carolina Panthers,2010,2.54,-0.12,3.74
+Carolina Panthers,2011,3.11,0.42,4.32
+Carolina Panthers,2012,2.63,-0.12,3.49
 Carolina Panthers,2013,2.76,0.09,3.91
 Carolina Panthers,2014,2.86,0.07,3.6
-Carolina Panthers,2015,2.85,0.13,3.89
-Carolina Panthers,2016,2.75,0.05,3.83
-Carolina Panthers,2017,2.74,0,3.78
+Carolina Panthers,2015,2.85,0.14,3.89
+Carolina Panthers,2016,2.75,0.02,3.83
+Carolina Panthers,2017,2.74,0.01,3.78
 Carolina Panthers,2018,3.12,0.35,4.55
-Chicago Bears,2009,2.54,-0.08,4.08
-Chicago Bears,2010,2.41,-0.3,3.64
-Chicago Bears,2011,2.68,-0.06,3.92
-Chicago Bears,2012,2.69,-0.02,4.05
+Chicago Bears,2009,2.59,-0.03,4.08
+Chicago Bears,2010,2.41,-0.32,3.64
+Chicago Bears,2011,2.61,-0.13,3.92
+Chicago Bears,2012,2.72,0.02,4.05
 Chicago Bears,2013,2.62,-0.15,3.8
 Chicago Bears,2014,2.82,-0.12,3.94
-Chicago Bears,2015,2.96,0.12,4.09
-Chicago Bears,2016,2.91,0.09,4.48
-Chicago Bears,2017,2.45,-0.33,3.65
+Chicago Bears,2015,3,0.15,4.09
+Chicago Bears,2016,2.92,0.11,4.48
+Chicago Bears,2017,2.36,-0.42,3.65
 Chicago Bears,2018,2.71,-0.17,3.91
-Cincinnati Bengals,2009,2.74,0.09,3.96
-Cincinnati Bengals,2010,2.65,-0.1,4.04
-Cincinnati Bengals,2011,2.71,0.05,3.99
-Cincinnati Bengals,2012,2.79,0.03,4.15
+Cincinnati Bengals,2009,2.7,0.05,3.96
+Cincinnati Bengals,2010,2.66,-0.08,4.04
+Cincinnati Bengals,2011,2.75,0.09,3.99
+Cincinnati Bengals,2012,2.78,0.03,4.15
 Cincinnati Bengals,2013,2.81,0.08,4.03
 Cincinnati Bengals,2014,2.84,0.07,4.03
-Cincinnati Bengals,2015,2.83,0.12,4.21
+Cincinnati Bengals,2015,2.88,0.17,4.21
 Cincinnati Bengals,2016,2.7,-0.07,4.2
-Cincinnati Bengals,2017,2.67,-0.2,3.79
+Cincinnati Bengals,2017,2.59,-0.29,3.79
 Cincinnati Bengals,2018,2.68,-0.15,4.1
 Cleveland Browns,2009,2.88,0.26,4.16
-Cleveland Browns,2010,2.81,0.14,4.04
-Cleveland Browns,2011,2.63,-0.14,3.94
-Cleveland Browns,2012,2.77,0,4.03
+Cleveland Browns,2010,2.74,0.06,4.04
+Cleveland Browns,2011,2.63,-0.13,3.94
+Cleveland Browns,2012,2.82,0.05,4.03
 Cleveland Browns,2013,2.59,-0.12,3.83
 Cleveland Browns,2014,2.43,-0.28,3.63
-Cleveland Browns,2015,2.28,-0.47,3.32
-Cleveland Browns,2016,2.59,-0.26,3.73
-Cleveland Browns,2017,2.82,0.02,4.09
+Cleveland Browns,2015,2.3,-0.47,3.32
+Cleveland Browns,2016,2.69,-0.15,3.73
+Cleveland Browns,2017,2.76,-0.04,4.09
 Cleveland Browns,2018,2.57,-0.17,4.24
-Dallas Cowboys,2009,2.97,0.38,4.48
-Dallas Cowboys,2010,2.75,0.18,4.14
-Dallas Cowboys,2011,2.91,0.25,4.22
-Dallas Cowboys,2012,2.58,-0.18,3.92
+Dallas Cowboys,2009,2.98,0.37,4.48
+Dallas Cowboys,2010,2.74,0.16,4.14
+Dallas Cowboys,2011,2.89,0.23,4.22
+Dallas Cowboys,2012,2.59,-0.16,3.92
 Dallas Cowboys,2013,2.93,0.16,4.23
 Dallas Cowboys,2014,2.92,0.11,4.4
-Dallas Cowboys,2015,2.79,-0.02,4.11
-Dallas Cowboys,2016,3.07,0.32,4.63
-Dallas Cowboys,2017,2.95,0.24,4.66
+Dallas Cowboys,2015,2.82,0.01,4.11
+Dallas Cowboys,2016,3,0.26,4.63
+Dallas Cowboys,2017,3,0.29,4.66
 Dallas Cowboys,2018,2.92,0.12,4.61
-Denver Broncos,2009,2.97,0.34,4.3
-Denver Broncos,2010,2.58,-0.15,3.6
-Denver Broncos,2011,2.87,0.1,4.19
-Denver Broncos,2012,2.95,0.08,4.13
+Denver Broncos,2009,2.94,0.32,4.3
+Denver Broncos,2010,2.52,-0.24,3.6
+Denver Broncos,2011,2.99,0.23,4.19
+Denver Broncos,2012,2.89,0.01,4.13
 Denver Broncos,2013,3,0.06,4.07
 Denver Broncos,2014,2.82,-0.06,3.98
-Denver Broncos,2015,2.6,-0.3,3.73
-Denver Broncos,2016,2.78,-0.03,4.09
-Denver Broncos,2017,2.81,-0.05,4.31
+Denver Broncos,2015,2.68,-0.21,3.73
+Denver Broncos,2016,2.61,-0.2,4.09
+Denver Broncos,2017,2.9,0.04,4.31
 Denver Broncos,2018,3.06,0.31,4.75
-Detroit Lions,2009,2.49,-0.27,3.64
-Detroit Lions,2010,2.54,-0.31,3.35
-Detroit Lions,2011,2.76,-0.1,3.7
-Detroit Lions,2012,3.02,0.1,4.05
+Detroit Lions,2009,2.53,-0.23,3.64
+Detroit Lions,2010,2.52,-0.34,3.35
+Detroit Lions,2011,2.8,-0.06,3.7
+Detroit Lions,2012,2.99,0.08,4.05
 Detroit Lions,2013,2.79,-0.16,3.94
 Detroit Lions,2014,2.6,-0.22,3.79
-Detroit Lions,2015,2.51,-0.35,3.61
-Detroit Lions,2016,2.46,-0.4,3.49
-Detroit Lions,2017,2.28,-0.6,3.16
+Detroit Lions,2015,2.55,-0.32,3.61
+Detroit Lions,2016,2.44,-0.43,3.49
+Detroit Lions,2017,2.26,-0.62,3.16
 Detroit Lions,2018,2.71,-0.05,4.14
-Green Bay Packers,2009,2.84,0.18,4.25
-Green Bay Packers,2010,2.58,-0.12,3.82
-Green Bay Packers,2011,2.71,-0.04,4.06
-Green Bay Packers,2012,2.89,0.04,3.86
+Green Bay Packers,2009,2.86,0.21,4.25
+Green Bay Packers,2010,2.52,-0.18,3.82
+Green Bay Packers,2011,2.78,0.01,4.06
+Green Bay Packers,2012,2.87,0.02,3.86
 Green Bay Packers,2013,2.92,0.07,4.11
 Green Bay Packers,2014,2.84,-0.01,4.08
-Green Bay Packers,2015,2.66,-0.24,3.56
-Green Bay Packers,2016,2.62,-0.25,4.08
-Green Bay Packers,2017,3.07,0.2,4.6
+Green Bay Packers,2015,2.64,-0.26,3.56
+Green Bay Packers,2016,2.74,-0.13,4.08
+Green Bay Packers,2017,3,0.14,4.6
 Green Bay Packers,2018,3.06,0.11,4.71
-Houston Texans,2009,2.56,-0.08,4.13
-Houston Texans,2010,3.05,0.43,4.52
-Houston Texans,2011,2.93,0.29,4.36
-Houston Texans,2012,2.78,0.12,4.17
+Houston Texans,2009,2.62,-0.02,4.13
+Houston Texans,2010,3.01,0.41,4.52
+Houston Texans,2011,2.92,0.26,4.36
+Houston Texans,2012,2.79,0.13,4.17
 Houston Texans,2013,2.91,0.14,4.1
 Houston Texans,2014,2.58,-0.28,3.72
-Houston Texans,2015,2.69,-0.17,3.72
-Houston Texans,2016,2.92,0.07,4.16
-Houston Texans,2017,2.74,-0.13,3.89
+Houston Texans,2015,2.73,-0.13,3.72
+Houston Texans,2016,2.85,0.01,4.16
+Houston Texans,2017,2.77,-0.1,3.89
 Houston Texans,2018,2.56,-0.24,3.93
-Indianapolis Colts,2009,2.72,-0.12,3.98
-Indianapolis Colts,2010,2.55,-0.36,3.82
-Indianapolis Colts,2011,2.83,-0.02,3.91
-Indianapolis Colts,2012,2.55,-0.23,3.76
+Indianapolis Colts,2009,2.6,-0.25,3.98
+Indianapolis Colts,2010,2.71,-0.21,3.82
+Indianapolis Colts,2011,2.76,-0.08,3.91
+Indianapolis Colts,2012,2.57,-0.2,3.76
 Indianapolis Colts,2013,2.72,-0.05,3.89
 Indianapolis Colts,2014,2.69,-0.08,3.94
-Indianapolis Colts,2015,2.42,-0.38,3.47
-Indianapolis Colts,2016,2.99,0.21,4.69
-Indianapolis Colts,2017,2.58,-0.25,3.98
+Indianapolis Colts,2015,2.48,-0.33,3.47
+Indianapolis Colts,2016,2.96,0.19,4.69
+Indianapolis Colts,2017,2.56,-0.26,3.98
 Indianapolis Colts,2018,2.98,0.17,4.83
-Jacksonville Jaguars,2009,2.84,0.25,4.23
-Jacksonville Jaguars,2010,3.13,0.5,4.63
-Jacksonville Jaguars,2011,2.83,0.16,4.14
-Jacksonville Jaguars,2012,2.77,-0.02,4.05
+Jacksonville Jaguars,2009,2.85,0.24,4.23
+Jacksonville Jaguars,2010,3.2,0.59,4.63
+Jacksonville Jaguars,2011,2.79,0.12,4.14
+Jacksonville Jaguars,2012,2.7,-0.11,4.05
 Jacksonville Jaguars,2013,2.22,-0.6,3.13
 Jacksonville Jaguars,2014,2.74,-0.11,3.52
-Jacksonville Jaguars,2015,2.66,-0.1,3.77
-Jacksonville Jaguars,2016,2.55,-0.36,3.73
-Jacksonville Jaguars,2017,2.76,0.05,4.12
+Jacksonville Jaguars,2015,2.63,-0.14,3.77
+Jacksonville Jaguars,2016,2.65,-0.27,3.73
+Jacksonville Jaguars,2017,2.72,0.03,4.12
 Jacksonville Jaguars,2018,2.68,-0.11,4.12
-Kansas City Chiefs,2009,2.51,-0.24,3.67
-Kansas City Chiefs,2010,3.15,0.47,4.44
-Kansas City Chiefs,2011,2.69,-0.05,3.81
-Kansas City Chiefs,2012,2.77,-0.05,4.04
+Kansas City Chiefs,2009,2.61,-0.14,3.67
+Kansas City Chiefs,2010,3.06,0.37,4.44
+Kansas City Chiefs,2011,2.72,-0.03,3.81
+Kansas City Chiefs,2012,2.8,-0.03,4.04
 Kansas City Chiefs,2013,2.96,0.25,4.33
 Kansas City Chiefs,2014,2.84,0.03,4.08
 Kansas City Chiefs,2015,2.95,0.17,4.15
-Kansas City Chiefs,2016,2.75,0.01,4.1
-Kansas City Chiefs,2017,2.67,-0.2,4.14
+Kansas City Chiefs,2016,2.69,-0.05,4.1
+Kansas City Chiefs,2017,2.7,-0.17,4.14
 Kansas City Chiefs,2018,2.97,0.15,4.37
-Los Angeles Chargers,2009,2.58,0.09,4.08
-Los Angeles Chargers,2010,2.73,0.14,4.12
-Los Angeles Chargers,2011,2.92,0.28,4.23
-Los Angeles Chargers,2012,2.72,-0.03,3.91
+Los Angeles Chargers,2009,2.57,0.09,4.08
+Los Angeles Chargers,2010,2.76,0.15,4.12
+Los Angeles Chargers,2011,2.91,0.27,4.23
+Los Angeles Chargers,2012,2.73,-0.04,3.91
 Los Angeles Chargers,2013,3.11,0.24,4.26
 Los Angeles Chargers,2014,2.4,-0.49,3.29
-Los Angeles Chargers,2015,2.52,-0.43,3.18
-Los Angeles Chargers,2016,2.48,-0.27,3.97
-Los Angeles Chargers,2017,2.61,-0.18,3.71
+Los Angeles Chargers,2015,2.53,-0.4,3.18
+Los Angeles Chargers,2016,2.55,-0.21,3.97
+Los Angeles Chargers,2017,2.54,-0.25,3.71
 Los Angeles Chargers,2018,3.01,0.2,4.8
-Los Angeles Rams,2009,2.73,-0.02,3.84
+Los Angeles Rams,2009,2.71,-0.04,3.84
 Los Angeles Rams,2010,2.55,-0.22,3.77
-Los Angeles Rams,2011,2.67,-0.1,3.75
-Los Angeles Rams,2012,2.82,0.05,4.08
+Los Angeles Rams,2011,2.68,-0.09,3.75
+Los Angeles Rams,2012,2.84,0.06,4.08
 Los Angeles Rams,2013,2.69,-0.02,3.95
 Los Angeles Rams,2014,2.79,0.03,3.9
-Los Angeles Rams,2015,2.67,-0.15,3.56
-Los Angeles Rams,2016,2.48,-0.35,3.66
-Los Angeles Rams,2017,2.86,-0.04,4.7
+Los Angeles Rams,2015,2.65,-0.18,3.56
+Los Angeles Rams,2016,2.45,-0.4,3.66
+Los Angeles Rams,2017,2.91,0.02,4.7
 Los Angeles Rams,2018,3.31,0.51,5.49
-Miami Dolphins,2009,3.03,0.49,4.44
-Miami Dolphins,2010,2.8,0.06,4.07
-Miami Dolphins,2011,2.8,0.07,4.05
-Miami Dolphins,2012,2.72,0,3.93
+Miami Dolphins,2009,3.01,0.47,4.44
+Miami Dolphins,2010,2.78,0.03,4.07
+Miami Dolphins,2011,2.8,0.09,4.05
+Miami Dolphins,2012,2.74,0.02,3.93
 Miami Dolphins,2013,2.64,-0.13,3.62
 Miami Dolphins,2014,3.1,0.21,4.06
-Miami Dolphins,2015,2.84,-0.07,3.45
-Miami Dolphins,2016,2.53,-0.3,3.97
-Miami Dolphins,2017,2.36,-0.56,3.26
+Miami Dolphins,2015,2.71,-0.17,3.45
+Miami Dolphins,2016,2.62,-0.23,3.97
+Miami Dolphins,2017,2.33,-0.58,3.26
 Miami Dolphins,2018,2.94,-0.02,4.46
-Minnesota Vikings,2009,2.66,0.08,4.03
-Minnesota Vikings,2010,2.87,0.17,4.15
-Minnesota Vikings,2011,2.82,0.15,4.05
-Minnesota Vikings,2012,2.71,0.07,4.17
+Minnesota Vikings,2009,2.66,0.09,4.03
+Minnesota Vikings,2010,2.82,0.09,4.15
+Minnesota Vikings,2011,2.8,0.14,4.05
+Minnesota Vikings,2012,2.78,0.14,4.17
 Minnesota Vikings,2013,2.77,0.16,4.04
 Minnesota Vikings,2014,2.86,0.05,3.97
-Minnesota Vikings,2015,2.73,0.02,3.96
-Minnesota Vikings,2016,2.42,-0.3,3.64
-Minnesota Vikings,2017,2.58,-0.19,3.96
+Minnesota Vikings,2015,2.76,0.05,3.96
+Minnesota Vikings,2016,2.38,-0.35,3.64
+Minnesota Vikings,2017,2.57,-0.18,3.96
 Minnesota Vikings,2018,2.65,-0.17,4.09
-New England Patriots,2009,3.08,0.39,4.43
-New England Patriots,2010,3.29,0.57,4.82
-New England Patriots,2011,3.03,0.28,4.53
-New England Patriots,2012,2.95,0.17,4.45
+New England Patriots,2009,3.06,0.36,4.43
+New England Patriots,2010,3.32,0.6,4.82
+New England Patriots,2011,3.03,0.27,4.53
+New England Patriots,2012,2.92,0.14,4.45
 New England Patriots,2013,3.1,0.35,4.63
 New England Patriots,2014,2.87,0.16,4.22
-New England Patriots,2015,2.78,0.01,4.19
-New England Patriots,2016,2.79,0.16,4.46
-New England Patriots,2017,3.08,0.43,5.05
+New England Patriots,2015,2.76,-0.03,4.19
+New England Patriots,2016,2.83,0.21,4.46
+New England Patriots,2017,3.08,0.44,5.05
 New England Patriots,2018,3.04,0.41,5.03
-New Orleans Saints,2009,3.06,0.41,4.5
-New Orleans Saints,2010,2.77,0.11,4.42
-New Orleans Saints,2011,3.21,0.5,4.95
-New Orleans Saints,2012,2.98,0.18,4.04
+New Orleans Saints,2009,3.01,0.36,4.5
+New Orleans Saints,2010,2.84,0.17,4.42
+New Orleans Saints,2011,3.31,0.59,4.95
+New Orleans Saints,2012,2.84,0.04,4.04
 New Orleans Saints,2013,2.66,-0.03,4.08
 New Orleans Saints,2014,2.98,0.22,4.38
-New Orleans Saints,2015,2.62,-0.15,3.88
-New Orleans Saints,2016,3.1,0.36,4.93
+New Orleans Saints,2015,2.65,-0.11,3.88
+New Orleans Saints,2016,3.09,0.33,4.93
 New Orleans Saints,2017,2.95,0.22,4.93
 New Orleans Saints,2018,3.12,0.45,5.19
-New York Giants,2009,2.85,0.24,4.12
-New York Giants,2010,2.88,0.2,4.22
-New York Giants,2011,2.59,-0.16,3.81
-New York Giants,2012,3.03,0.29,4.47
+New York Giants,2009,2.83,0.22,4.12
+New York Giants,2010,2.82,0.14,4.22
+New York Giants,2011,2.65,-0.11,3.81
+New York Giants,2012,3.07,0.34,4.47
 New York Giants,2013,2.4,-0.35,3.27
 New York Giants,2014,2.6,-0.21,3.76
-New York Giants,2015,2.75,-0.13,3.96
-New York Giants,2016,2.82,-0.22,3.89
-New York Giants,2017,2.77,-0.09,4.06
+New York Giants,2015,2.83,-0.06,3.96
+New York Giants,2016,2.79,-0.26,3.89
+New York Giants,2017,2.72,-0.12,4.06
 New York Giants,2018,2.5,-0.27,3.9
-New York Jets,2009,2.94,0.31,4.35
-New York Jets,2010,3.1,0.42,4.56
-New York Jets,2011,2.93,0.22,4.23
-New York Jets,2012,2.93,0.27,4.38
+New York Jets,2009,2.94,0.35,4.35
+New York Jets,2010,3.17,0.43,4.56
+New York Jets,2011,2.9,0.19,4.23
+New York Jets,2012,2.88,0.23,4.38
 New York Jets,2013,2.81,0.01,3.79
 New York Jets,2014,2.92,0.07,3.84
-New York Jets,2015,2.49,-0.34,3.55
-New York Jets,2016,2.94,0.04,4.29
-New York Jets,2017,2.36,-0.43,3.4
+New York Jets,2015,2.52,-0.32,3.55
+New York Jets,2016,2.9,0.03,4.29
+New York Jets,2017,2.35,-0.46,3.4
 New York Jets,2018,2.34,-0.48,3.59
-Oakland Raiders,2009,2.83,0.13,3.96
-Oakland Raiders,2010,2.83,0.17,4.11
-Oakland Raiders,2011,2.81,0.1,4.13
-Oakland Raiders,2012,2.46,-0.36,3.52
+Oakland Raiders,2009,2.79,0.09,3.96
+Oakland Raiders,2010,2.9,0.24,4.11
+Oakland Raiders,2011,2.78,0.08,4.13
+Oakland Raiders,2012,2.41,-0.4,3.52
 Oakland Raiders,2013,2.66,-0.01,3.71
 Oakland Raiders,2014,2.48,-0.27,3.56
-Oakland Raiders,2015,2.63,-0.15,3.69
-Oakland Raiders,2016,2.91,0.14,4.39
-Oakland Raiders,2017,2.75,-0.12,4.17
+Oakland Raiders,2015,2.62,-0.17,3.69
+Oakland Raiders,2016,2.92,0.15,4.39
+Oakland Raiders,2017,2.76,-0.11,4.17
 Oakland Raiders,2018,2.91,0.12,4.49
 Philadelphia Eagles,2009,2.83,0.09,4.26
-Philadelphia Eagles,2010,2.95,0.18,4.17
-Philadelphia Eagles,2011,2.63,-0.08,3.89
-Philadelphia Eagles,2012,2.51,-0.34,3.56
+Philadelphia Eagles,2010,2.93,0.16,4.17
+Philadelphia Eagles,2011,2.62,-0.08,3.89
+Philadelphia Eagles,2012,2.51,-0.36,3.56
 Philadelphia Eagles,2013,2.91,0.04,3.71
 Philadelphia Eagles,2014,2.75,-0.1,3.52
 Philadelphia Eagles,2015,2.58,-0.34,3.25
-Philadelphia Eagles,2016,2.81,0.02,4.28
-Philadelphia Eagles,2017,2.62,-0.2,3.85
+Philadelphia Eagles,2016,2.8,0.03,4.28
+Philadelphia Eagles,2017,2.63,-0.2,3.85
 Philadelphia Eagles,2018,2.73,-0.09,4.14
-Pittsburgh Steelers,2009,2.76,0.1,4.18
-Pittsburgh Steelers,2010,2.66,0.01,3.87
-Pittsburgh Steelers,2011,2.94,0.32,4.43
-Pittsburgh Steelers,2012,2.66,-0.12,3.72
+Pittsburgh Steelers,2009,2.8,0.16,4.18
+Pittsburgh Steelers,2010,2.62,-0.01,3.87
+Pittsburgh Steelers,2011,2.98,0.31,4.43
+Pittsburgh Steelers,2012,2.6,-0.17,3.72
 Pittsburgh Steelers,2013,2.57,-0.2,3.79
 Pittsburgh Steelers,2014,2.8,-0.04,4.1
-Pittsburgh Steelers,2015,2.89,0.16,4.08
-Pittsburgh Steelers,2016,3.17,0.35,4.68
-Pittsburgh Steelers,2017,2.76,-0,4.36
+Pittsburgh Steelers,2015,2.83,0.1,4.08
+Pittsburgh Steelers,2016,3.11,0.29,4.68
+Pittsburgh Steelers,2017,2.85,0.09,4.36
 Pittsburgh Steelers,2018,2.85,0.11,4.43
-San Francisco 49ers,2009,2.44,-0.2,3.53
-San Francisco 49ers,2010,2.85,0.18,4.14
-San Francisco 49ers,2011,2.63,0.1,3.96
-San Francisco 49ers,2012,3.16,0.59,4.5
+San Francisco 49ers,2009,2.47,-0.15,3.53
+San Francisco 49ers,2010,2.85,0.17,4.14
+San Francisco 49ers,2011,2.63,0.09,3.96
+San Francisco 49ers,2012,3.19,0.63,4.5
 San Francisco 49ers,2013,2.44,-0.1,3.57
 San Francisco 49ers,2014,2.8,0.09,4.05
-San Francisco 49ers,2015,2.47,-0.27,3.16
-San Francisco 49ers,2016,2.68,-0.22,3.46
-San Francisco 49ers,2017,2.57,-0.15,4.2
+San Francisco 49ers,2015,2.41,-0.32,3.16
+San Francisco 49ers,2016,2.66,-0.25,3.46
+San Francisco 49ers,2017,2.65,-0.06,4.2
 San Francisco 49ers,2018,2.8,0.08,4.56
-Seattle Seahawks,2009,2.6,-0.23,3.94
-Seattle Seahawks,2010,2.55,-0.2,3.67
-Seattle Seahawks,2011,2.66,-0.11,4.01
-Seattle Seahawks,2012,3.12,0.34,4.42
+Seattle Seahawks,2009,2.66,-0.16,3.94
+Seattle Seahawks,2010,2.47,-0.28,3.67
+Seattle Seahawks,2011,2.69,-0.08,4.01
+Seattle Seahawks,2012,3.14,0.37,4.42
 Seattle Seahawks,2013,2.79,0.02,4.05
 Seattle Seahawks,2014,3.13,0.31,4.23
-Seattle Seahawks,2015,3,0.18,4.18
-Seattle Seahawks,2016,2.43,-0.36,3.77
-Seattle Seahawks,2017,2.27,-0.61,3.18
+Seattle Seahawks,2015,2.96,0.14,4.18
+Seattle Seahawks,2016,2.43,-0.37,3.77
+Seattle Seahawks,2017,2.26,-0.63,3.18
 Seattle Seahawks,2018,3.15,0.29,4.5
-Tampa Bay Buccaneers,2009,2.6,-0.07,3.57
-Tampa Bay Buccaneers,2010,2.51,-0.15,3.78
-Tampa Bay Buccaneers,2011,2.7,-0.06,3.96
-Tampa Bay Buccaneers,2012,2.69,-0.02,4.09
+Tampa Bay Buccaneers,2009,2.54,-0.14,3.57
+Tampa Bay Buccaneers,2010,2.56,-0.09,3.78
+Tampa Bay Buccaneers,2011,2.67,-0.11,3.96
+Tampa Bay Buccaneers,2012,2.73,0.03,4.09
 Tampa Bay Buccaneers,2013,2.54,-0.23,3.63
 Tampa Bay Buccaneers,2014,2.35,-0.45,3.21
-Tampa Bay Buccaneers,2015,2.82,0.07,4
-Tampa Bay Buccaneers,2016,2.5,-0.27,4.01
-Tampa Bay Buccaneers,2017,2.62,-0.13,4.06
+Tampa Bay Buccaneers,2015,2.77,0.02,4
+Tampa Bay Buccaneers,2016,2.53,-0.25,4.01
+Tampa Bay Buccaneers,2017,2.63,-0.12,4.06
 Tampa Bay Buccaneers,2018,2.45,-0.34,3.78
-Tennessee Titans,2009,2.78,0.07,4.01
-Tennessee Titans,2010,2.48,-0.22,3.47
-Tennessee Titans,2011,2.33,-0.43,3.39
-Tennessee Titans,2012,2.34,-0.42,3.35
+Tennessee Titans,2009,2.79,0.09,4.01
+Tennessee Titans,2010,2.39,-0.33,3.47
+Tennessee Titans,2011,2.4,-0.35,3.39
+Tennessee Titans,2012,2.31,-0.46,3.35
 Tennessee Titans,2013,2.66,-0.02,3.82
 Tennessee Titans,2014,2.83,-0,3.91
-Tennessee Titans,2015,2.42,-0.3,3.65
-Tennessee Titans,2016,3.11,0.42,4.63
+Tennessee Titans,2015,2.51,-0.21,3.65
+Tennessee Titans,2016,3.05,0.36,4.63
 Tennessee Titans,2017,2.57,-0.14,3.85
 Tennessee Titans,2018,2.75,0.09,4.33
-Washington Redskins,2009,2.62,-0.07,3.98
-Washington Redskins,2010,2.45,-0.22,3.81
-Washington Redskins,2011,2.8,0.05,4.21
-Washington Redskins,2012,3.17,0.43,4.24
+Washington Redskins,2009,2.59,-0.09,3.98
+Washington Redskins,2010,2.45,-0.23,3.81
+Washington Redskins,2011,2.87,0.12,4.21
+Washington Redskins,2012,3.16,0.43,4.24
 Washington Redskins,2013,2.91,0.19,3.75
 Washington Redskins,2014,2.74,-0.05,3.87
-Washington Redskins,2015,2.5,-0.3,3.64
-Washington Redskins,2016,2.96,0.12,4.57
-Washington Redskins,2017,2.54,-0.23,3.86
+Washington Redskins,2015,2.55,-0.25,3.64
+Washington Redskins,2016,2.91,0.07,4.57
+Washington Redskins,2017,2.55,-0.21,3.86
 Washington Redskins,2018,2.54,-0.3,3.96
